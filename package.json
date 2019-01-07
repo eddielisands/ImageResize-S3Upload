@@ -1,0 +1,9 @@
+{
+  "name": "Image-Resize",
+  "version": "0.0.1",
+  "description": "Resize image before uploading to the S3",
+  "dependencies": {
+    "aws-sdk": ">= 2.0.9",
+    "gm": "^1.23.1"
+  }
+}
